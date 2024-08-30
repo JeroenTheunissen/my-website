@@ -11,10 +11,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.18.4",
     "nuxt": "^3.13.0",
     "vue": "latest"
   },
   "engines": {
-      "node": "20.x"
+    "node": "20.x"
   }
 }
